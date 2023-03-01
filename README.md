@@ -1,2 +1,2 @@
 # QA
-QA Automation
+Aprendiendo Git con mi cuenta personal
