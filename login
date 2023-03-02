@@ -14,9 +14,6 @@
     <h1>Practicando Git</h1>
     <h2>QA Automation</h2>
     <p>Adviser: Tamara Torres (tamara.torres@globallogic.com)</p>
-    <p>1 | Cambio: parrafo añadido desde Branch1</p>
-    <p>2 | Cambio hecho en Branch2</p>
-    <p>3 | Cambio hecho en Branch2</p>
-    <p>4 | Cambio hecho en Branch2.1</p>
+    <p>1 | Cambio: Archivo creado desde Branch1</p>
 </body>
 </html>
